@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Bonjour, veuillez sasir votre nom"
+        android:text="Bonjour, veuillez saisir votre nom"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -40,7 +40,7 @@
     <EditText
         android:layout_width="209dp"
         android:layout_height="44dp"
-        android:hint="Please type your name"
+        android:hint="Entrez votre nom"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="99dp"
         tools:layout_editor_absoluteY="187dp" />
